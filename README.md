@@ -1,3 +1,4 @@
-<center><h1>hi, i'm leo<h1/><center/>
+hi, i'm leo 💜
+<hr>
 
 linux user/enthusiast and programmer
