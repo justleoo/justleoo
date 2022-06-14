@@ -1,13 +1,8 @@
-<p align="center">
-  <samp>
-    <em>welcome.</em>
-  </samp><br>
-</p>
+<img align="left" height="170" src="computer.gif"/>
 
-<p align="center">
-  <samp>
-    <em>i'm leo, linux ricing enthusiast and programmer.</em>
-    <br>
-    <a href="https://github.com/justleoo/dotfiles">dotfiles</a> - <a href="https://www.leoo.tech/">website</a>
-  </samp><br>
-<p>
+```diff
+[leo@void ~]$ fetch
+@@im leo, trying to program something@@
++ im from brazil
+! i like rock
+# and i like to "rice" linux. <3
