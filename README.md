@@ -2,7 +2,7 @@
 
 ```diff
 [leo@void ~]$ fetch
-@@im leo, trying to program something@@
+@@hi! my name is leo, welcome to my github profile@@
 + im from brazil
-! metal enjoyer
-# and i like to "rice" linux. <3
+! metalhead
+# i rice linux
